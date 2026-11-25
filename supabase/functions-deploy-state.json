@@ -1,0 +1,13 @@
+{
+  "projectId": "73178634",
+  "functions": {
+    "translate": {
+      "hasChanged": false,
+      "hash": "3277711a1bac522692af1f009fdade39c96d2435d94e774586609a3ea204d6d2"
+    },
+    "tts": {
+      "hasChanged": false,
+      "hash": "3e3c8799efe5567cde5b3aa2aac0ff449ab963c46575dcf35483c46bce9073ae"
+    }
+  }
+}
